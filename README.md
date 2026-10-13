@@ -9,7 +9,7 @@ Para a construção e o funcionamento eficiente desta planilha, foram utilizados
 
 - **Organização da Workbook**: Criadas worksheets para abrigar a base de dados, cálculos para as dashboards e assets (recursos como imagens e paletas de cores).
 
-- **Criação de Dados** Personalizados: Implementada para melhorar a visualização de dados especiais (como nº telefone e celular).
+- **Criação de Dados Personalizados**: Implementada para melhorar a visualização de dados especiais (como nº telefone e celular).
 
 - **Validação de Dados**: Criação de listas suspensas e restrições de entrada para garantir a integridade e a padronização das informações inseridas.
 
